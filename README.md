@@ -25,6 +25,19 @@ Then you can launch the relevant file.
 
 ```
 
+-bash: ./cpanelmailbaby.sh: /bin/bash^M: bad interpreter: No such file or directory
+
+
+If it gives error
+
+```bash
+
+dos2unix cpanelmailbaby.sh
+
+```
+
+Run the relevant command and try again.
+
 ## Information required for installation;
 
 The "Connection Information" information given to you by Mailbaby is sufficient for installation. 
